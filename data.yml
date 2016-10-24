@@ -1,0 +1,245 @@
+--- !ruby/object:Library
+readers:
+- &10 !ruby/object:Reader
+  name: Darron Pouros
+  email: brendon.tremblay@quigley.io
+  city: Cartwrightbury
+  street: Erin Overpass
+  house: '93640'
+- &14 !ruby/object:Reader
+  name: Dr. Magdalena Emmerich
+  email: jaydon_brekke@reynoldsward.biz
+  city: Wuckertville
+  street: Trystan Camp
+  house: '218'
+- &13 !ruby/object:Reader
+  name: Jannie Farrell
+  email: lindsey@nicolas.com
+  city: Wiegandmouth
+  street: Ankunding Rapid
+  house: '451'
+- &18 !ruby/object:Reader
+  name: Bobbie Wolf
+  email: jamel@bradtke.name
+  city: Medhurstborough
+  street: Scot Oval
+  house: '422'
+- &16 !ruby/object:Reader
+  name: Orin Schoen I
+  email: janae@lueilwitzbednar.com
+  city: Mitchelltown
+  street: Ally Summit
+  house: '912'
+- !ruby/object:Reader
+  name: Gregorio Prosacco
+  email: sylvia_cummerata@robel.com
+  city: Hyattchester
+  street: Ross Junction
+  house: '98709'
+- !ruby/object:Reader
+  name: Nola Strosin
+  email: deshaun.huels@gislasonrutherford.org
+  city: Port Horaceside
+  street: Bradly Mills
+  house: '20520'
+- !ruby/object:Reader
+  name: Ladarius Koelpin
+  email: elda@zemlaklind.net
+  city: West Kevon
+  street: Dixie Spurs
+  house: '72981'
+- &20 !ruby/object:Reader
+  name: Mrs. Ara Ritchie
+  email: humberto.leffler@marksrutherford.org
+  city: Schmelerstad
+  street: Harley Island
+  house: '642'
+- &23 !ruby/object:Reader
+  name: Alvah Hodkiewicz
+  email: kory@trompcronin.co
+  city: North Birdieshire
+  street: Ratke Mission
+  house: '2664'
+- !ruby/object:Reader
+  name: Terry Nicolas
+  email: damien_rolfson@abbott.info
+  city: West Wendy
+  street: Beer Track
+  house: '40341'
+- !ruby/object:Reader
+  name: Bret Mayer PhD
+  email: belle@gusikowski.info
+  city: New Gabeville
+  street: Rusty Tunnel
+  house: '3993'
+- !ruby/object:Reader
+  name: Lessie Franecki
+  email: christop_witting@beatty.net
+  city: East Camylle
+  street: Kunze Creek
+  house: '6805'
+- !ruby/object:Reader
+  name: Marietta Veum
+  email: hubert@botsforddeckow.co
+  city: Gustavetown
+  street: Heidenreich Pines
+  house: '37997'
+- !ruby/object:Reader
+  name: Cornelius Kiehn
+  email: santos@kleinspinka.biz
+  city: New Colt
+  street: Bertrand Locks
+  house: '779'
+authors:
+- &1 !ruby/object:Author
+  name: Laverna Lehner
+  biography: Quo eum et nisi voluptatem.
+- &2 !ruby/object:Author
+  name: Mr. Stuart Mayer
+  biography: Sed sed dolorem et.
+- &3 !ruby/object:Author
+  name: Felicia Schowalter
+  biography: Ad et omnis similique.
+- &6 !ruby/object:Author
+  name: Curt Carroll
+  biography: Velit architecto dignissimos iusto.
+- &4 !ruby/object:Author
+  name: Crystal Erdman
+  biography: Iure debitis aut maxime.
+- !ruby/object:Author
+  name: Dakota Nitzsche
+  biography: Aut delectus qui sed.
+- &5 !ruby/object:Author
+  name: Pearline Herzog
+  biography: Vel explicabo aspernatur commodi dolor veniam repellendus dolores libero.
+- &7 !ruby/object:Author
+  name: Bernhard Abbott
+  biography: Inventore repudiandae qui dolorem ut id pariatur.
+- !ruby/object:Author
+  name: Claud Johnson
+  biography: Praesentium exercitationem vel est in quo.
+- !ruby/object:Author
+  name: Anna Cartwright
+  biography: Quas vel sed et consequatur occaecati illum.
+- !ruby/object:Author
+  name: Fiona Lesch
+  biography: Quis illum qui quasi.
+- &8 !ruby/object:Author
+  name: Elian Brekke PhD
+  biography: Reprehenderit voluptatem eius deleniti labore est recusandae ullam.
+- !ruby/object:Author
+  name: Myra Doyle
+  biography: Velit voluptatibus tenetur dicta nobis repudiandae in.
+- !ruby/object:Author
+  name: Monserrate Turcotte
+  biography: Enim est distinctio sint ut.
+- &9 !ruby/object:Author
+  name: Clement Crist
+  biography: Vitae suscipit reiciendis et.
+books:
+- &11 !ruby/object:Book
+  title: Little Hands Clapping
+  author: *1
+- &12 !ruby/object:Book
+  title: Surprised by Joy
+  author: *2
+- &15 !ruby/object:Book
+  title: Taming a Sea Horse
+  author: *3
+- &17 !ruby/object:Book
+  title: As I Lay Dying
+  author: *1
+- &19 !ruby/object:Book
+  title: Shall not Perish
+  author: *2
+- !ruby/object:Book
+  title: The Mermaids Singing
+  author: *2
+- !ruby/object:Book
+  title: Edna O'Brien
+  author: *4
+- !ruby/object:Book
+  title: The Lathe of Heaven
+  author: *5
+- !ruby/object:Book
+  title: By Grand Central Station I Sat Down and Wept
+  author: *6
+- &21 !ruby/object:Book
+  title: The Violent Bear It Away
+  author: *7
+- &22 !ruby/object:Book
+  title: The Needle's Eye
+  author: *2
+- !ruby/object:Book
+  title: The Far-Distant Oxus
+  author: *8
+- !ruby/object:Book
+  title: Eyeless in Gaza
+  author: *6
+- !ruby/object:Book
+  title: In Death Ground
+  author: *5
+- !ruby/object:Book
+  title: The Grapes of Wrath
+  author: *9
+orders:
+- !ruby/object:Order
+  reader: *13
+  book: *11
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *13
+  book: *11
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *13
+  book: *11
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *13
+  book: *11
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *13
+  book: *11
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *16
+  book: *15
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *14
+  book: *15
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *18
+  book: *15
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *18
+  book: *21
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *16
+  book: *21
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *14
+  book: *15
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *20
+  book: *21
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *20
+  book: *21
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *14
+  book: *21
+  date: 23/10/2016 15:25
+- !ruby/object:Order
+  reader: *23
+  book: *19
+  date: 23/10/2016 15:25
