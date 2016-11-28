@@ -2,12 +2,11 @@
 require 'yaml'
 require 'faker'
 require_relative "library"
+require_relative "data.rb"
 
-Library.fill_data if File.zero?('data.yml')
+DataBase.new if File.zero?('data.yml')
 library = Library.new
 library.load_data
-
-
 
 
 p "The most popular book in the library is #{library.most_popular_book}"
